@@ -75,28 +75,6 @@ class _FavoriteWidgetState extends State <FavoriteWidget>{
                 ],
               ),
             );
-    
-  //   new Row(
-  //     mainAxisSize: MainAxisSize.min,
-  //     children: [
-  //       new Container(
-  //         padding: new EdgeInsets.all(0.0),
-  //         child: new IconButton(
-  //           icon: (_isFavorited
-  //               ? new Icon(Icons.star)
-  //               : new Icon(Icons.star_border)),
-  //           color: Colors.red,
-  //           onPressed: _toggleFavorite,
-  //         ),
-  //       ),
-  //       new SizedBox(
-  //         width: 18.0,
-  //         child: new Container(
-  //           child: new Text('$_favoriteCount'),
-  //         ),
-  //       ),
-  //     ],
-  //   );
   }
 
 }
